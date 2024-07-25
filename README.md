@@ -9,9 +9,15 @@ AdventureWorks Database is a Microsoft product sample for an online transaction 
 ### 📈 Dashboard
 📃 Executive Summary
 ![executive summary dashboard](https://github.com/user-attachments/assets/06c31db5-7f15-4b8d-b314-73f264874bf2)
+
 🏍️ Product Details
+
 ![product details](https://github.com/user-attachments/assets/8ac8a2f1-e19c-4119-91f5-3e110a3441d4)
+
 👨‍👩‍👧‍👦 Customer Details
+
 ![customer details](https://github.com/user-attachments/assets/62325cca-c5c5-4ce9-9712-175cca8138c1)
+
 🔑 Key Influencers
+
 ![key influencers dashboard](https://github.com/user-attachments/assets/cd7f4a30-959e-43b4-aa2b-0c272e67e633)
